@@ -106,7 +106,7 @@
                 <span class="company">Bachelor 3 Développeur Fullstack en alternance</span>
                 <span class="date">2025</span>
             </div>
-            <div class="location">EPSI, Toulouse, 2 semaines en entreprise / 1 semaine à l'école</div>
+            <div class="location">2 semaines en entreprise / 1 semaine à l'école EPSI</div>
         </div>
 
         <div class="experience">
@@ -133,11 +133,6 @@
             <div class="location">Dorian, Paris</div>
         </div>
     </section>
-	
-<button id="downloadPDF">Obtenir au format PDF</button>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.9.2/html2pdf.bundle.min.js"></script>
 <script src="/index.js"></script>
-
 </body>
 </html>

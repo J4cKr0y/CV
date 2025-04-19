@@ -78,7 +78,7 @@
 
         .profile-section {
             text-align: center;
-            max-width: 95%;
+            max-width: 100%;
             margin: 0 auto 15px auto;
         }
 
@@ -172,6 +172,17 @@
             background-color: var(--accent-color);
             color: white;
         }
+		
+		#downloadPDF {
+            margin-top: 10%;
+			color: white;
+            background-color: white;
+            border: none;
+		}
+		
+		#downloadPDF:hover {
+			color: var(--accent-color);
+		}
 
         /* Animations de base */
         @keyframes fadeInTop {
